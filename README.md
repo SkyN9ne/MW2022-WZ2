@@ -11,6 +11,7 @@ https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=ms
 [Join My Discord](https://discord.gg/novacorp)
 
 
+
 # Features: 
 
 Aimbot:
